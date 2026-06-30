@@ -1,0 +1,4 @@
+Primera nota del curso
+Segunda linea de practica
+Python es divertido
+Cuarta linea para contar

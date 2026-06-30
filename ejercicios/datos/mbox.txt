@@ -1,0 +1,47 @@
+From stephen.marquard@uct.ac.za Sat Jan  5 09:14:16 2008
+Return-Path: <stephen.marquard@uct.ac.za>
+Received: from mail.uct.ac.za
+Subject: Re: reunion de proyecto
+
+From alice@gmail.com Mon Jan  7 14:22:01 2008
+Return-Path: <alice@gmail.com>
+Subject: Entrega parcial
+
+From bob@gmail.com Tue Jan  8 10:05:33 2008
+Return-Path: <bob@gmail.com>
+Subject: Consulta guia
+
+From carlos@uct.ac.za Wed Jan  9 16:40:12 2008
+Return-Path: <carlos@uct.ac.za>
+Subject: Material clase
+
+From diana@gmail.com Thu Jan 10 08:15:44 2008
+Return-Path: <diana@gmail.com>
+Subject: Horario examen
+
+From stephen.marquard@uct.ac.za Fri Jan 11 11:30:00 2008
+Return-Path: <stephen.marquard@uct.ac.za>
+Subject: Recordatorio entrega
+
+Linea sin arroba ni email valido
+From: no es una linea From con email
+
+From eve@hotmail.com Sat Jan 12 19:00:01 2008
+Return-Path: <eve@hotmail.com>
+Subject: Practica extra
+
+From frank@uct.ac.za Sun Jan 13 07:45:22 2008
+Return-Path: <frank@uct.ac.za>
+Subject: Dudas diccionarios
+
+From grace@gmail.com Mon Jan 14 13:12:08 2008
+Return-Path: <grace@gmail.com>
+Subject: Ejercicios tuplas
+
+From henry@yahoo.com Tue Jan 15 20:33:17 2008
+Return-Path: <henry@yahoo.com>
+Subject: Archivos y listas
+
+From stephen.marquard@uct.ac.za Wed Jan 16 09:09:09 2008
+Return-Path: <stephen.marquard@uct.ac.za>
+Subject: Cierre de inscripciones
